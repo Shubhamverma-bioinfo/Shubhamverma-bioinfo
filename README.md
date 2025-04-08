@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats-iota-neon-94.vercel.app/api/top-langs?username=Shubhamverma-bioinfo&show_icons=true&locale=en&layout=compact" alt="Shubhamverma-bioinfo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-iota-neon-94.vercel.app/api?username=Shubhamverma-bioinfo&show_icons=true&locale=en" alt="Shubhamverma-bioinfo" /> </p>
+
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamverma-bioinfo&" alt="Shubhamverma-bioinfo" /> </p>
 
